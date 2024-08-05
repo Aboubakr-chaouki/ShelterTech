@@ -1,0 +1,10 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+#header {
+  background: orange !important;
+}
+.h1 {
+  color: green !important;
+}

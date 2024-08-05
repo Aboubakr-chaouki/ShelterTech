@@ -1,0 +1,43 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+#index {
+  background-color: #fd8f14 !important;
+  color: "black" !important;
+}
+#header {
+  background: #fd8f14 !important;
+}
+.shopping-cart {
+  color: "black" !important;
+}
+.blockcart {
+  background: #ffffff !important;
+  border-radius: 20px !important;
+}
+.featured-products {
+  background: #fd8f14 !important;
+}
+.product-miniature .thumbnail-container {
+  border-radius: 15px !important;
+}
+.block_newsletter
+  form
+  .row
+  .col-xs-12:first-of-type
+  .btn-primary:first-of-type {
+  border-radius: 15px !important;
+}
+.block_newsletter form input[type="email"] {
+  border-radius: 15px !important;
+}
+.featured-products {
+  border-radius: 15px !important;
+}
+.footer-container {
+  background-color: "black" !important;
+}
+.wishlist-button-add i {
+  color: #fd8f14 !important;
+}

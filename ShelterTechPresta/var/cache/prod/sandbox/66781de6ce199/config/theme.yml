@@ -1,0 +1,6 @@
+parent: child_classic
+name: child_child_classic
+display_name: Child theme of child_classic's theme
+version: 1.0.0
+assets:
+  use_parent_assets: false
