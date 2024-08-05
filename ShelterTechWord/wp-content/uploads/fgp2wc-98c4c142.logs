@@ -1,0 +1,77 @@
+=== START empty 2024-06-25 14:01:27 ===
+Contenu WooCommerce supprimé
+Contenu par défaut de WooCommerce recréé
+Utilisateurs supprimés
+Contenu supprimé de WordPress
+=== END empty 2024-06-25 14:01:28 ===
+
+=== START import 2024-06-25 14:01:31 ===
+Connecté avec succès à la base de données PrestaShop
+Données PrestaShop trouvées :
+23 produits
+7 catégories de produits
+5 articles CMS
+1 catégorie CMS
+3 employés
+1 client
+5 commandes
+
+[WARNING] Votre base de données Prestashop contient des numéros de TVA. Vous avez besoin <a href="https://www.fredericgilles.net/fg-prestashop-to-woocommerce/eu-vat/" target="_blank">du module EU VAT</a> pour les importer.
+[WARNING] Votre base de données Prestashop contient des numéros NIF. Vous avez besoin <a href="https://www.fredericgilles.net/fg-prestashop-to-woocommerce/nif/" target="_blank">du module NIF</a> pour les importer.
+[WARNING] Votre base de données Prestashop contient des nuances de variations. Vous avez besoin <a href="https://www.fredericgilles.net/fg-prestashop-to-woocommerce/variations-swatches/" target="_blank">du module Variations Swatches</a> pour les importer.
+Connexion FILE SYSTEM réussie
+Import des employés...
+Import des clients...
+1 utilisateur importé
+Connexion FILE SYSTEM réussie
+Import des catégories du CMS...
+1 catégorie importée
+Import des articles du CMS...
+5 articles importés
+17 mots-clefs importés
+Import des catégories de produits...
+7 catégories de produit importées
+Import des attributs...
+4 attributs importés
+Import des propriétés...
+2 propriétés importées
+Import des taxes...
+0 groupe de taxe importé
+Import des produits...
+[ERROR] Can't copy http://localhost:8888/ShelterTech/ShelterTechPresta/ps-admin/img/p/2/7/27-thickbox_default.jpg to /Users/macbookaboubakar/Documents/epitech/ShelterTech/ShelterTechWord/wp-content/uploads/2024/06/27-thickbox_default-62b-Shelter-pour-engin-agricole.jpg : file_get_contents(/Users/macbookaboubakar/Documents/epitech/ShelterTech/ShelterTechPresta/img/p/2/7/27-thickbox_default.jpg): Failed to open stream: No such file or directory
+=== START update 2024-06-25 14:02:01 ===
+Connexion FILE SYSTEM réussie
+Connexion FILE SYSTEM réussie
+Mise à jour des produits...
+19 produits mis à jour
+Mise à jour des clients...
+1 client mis à jour
+Mise à jour des commandes...
+0 commande mise à jour
+=== END update 2024-06-25 14:02:01 ===
+
+23 produits importés
+Import des accessoires...
+Import des commandes...
+5 commandes importées
+Import des avis...
+0 avis importé
+Import des promotions...
+1 promotion importée
+Import des menus...
+0 menu importé
+23 médias importés
+IMPORT COMPLETED
+=== END import 2024-06-25 14:02:05 ===
+
+=== START update 2024-06-25 14:04:03 ===
+Connexion FILE SYSTEM réussie
+Connexion FILE SYSTEM réussie
+Mise à jour des produits...
+0 produit mis à jour
+Mise à jour des clients...
+0 client mis à jour
+Mise à jour des commandes...
+0 commande mise à jour
+=== END update 2024-06-25 14:04:03 ===
+

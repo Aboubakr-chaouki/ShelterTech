@@ -1,0 +1,837 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FG Prestashop to WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-08 16:02+0200\n"
+"PO-Revision-Date: 2020-05-08 16:02+0200\n"
+"Last-Translator: F. GILLES\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: admin/class-fg-prestashop-to-woocommerce-"
+"admin.php\n"
+"X-Poedit-SearchPathExcluded-1: admin/class-fg-prestashop-to-woocommerce-"
+"compatibility.php\n"
+"X-Poedit-SearchPathExcluded-2: admin/partials/help-instructions.tpl.php\n"
+"X-Poedit-SearchPathExcluded-3: admin/partials/help-options.tpl.php\n"
+"X-Poedit-SearchPathExcluded-4: admin/partials/extra-features.php\n"
+"X-Poedit-SearchPathExcluded-5: admin/partials/paypal-donate.php\n"
+"X-Poedit-SearchPathExcluded-6: admin/partials/actions.php\n"
+"X-Poedit-SearchPathExcluded-7: admin/partials/behavior.php\n"
+"X-Poedit-SearchPathExcluded-8: admin/partials/settings.php\n"
+"X-Poedit-SearchPathExcluded-9: admin/partials/admin-display.php\n"
+"X-Poedit-SearchPathExcluded-10: admin/partials/database-info.php\n"
+"X-Poedit-SearchPathExcluded-11: admin/partials/empty-content.php\n"
+"X-Poedit-SearchPathExcluded-12: admin/partials/settings-submit.php\n"
+"X-Poedit-SearchPathExcluded-13: admin/partials/logger.php\n"
+"X-Poedit-SearchPathExcluded-14: admin/partials/progress-bar.php\n"
+"X-Poedit-SearchPathExcluded-15: admin/class-fg-prestashop-to-woocommerce-"
+"progressbar.php\n"
+"X-Poedit-SearchPathExcluded-16: admin/class-fg-prestashop-to-woocommerce-"
+"modules-check.php\n"
+
+#: admin/class-fg-prestashop-to-woocommerce-accessories.php:40
+msgid "Importing accessories..."
+msgstr "Импорт аксессуаров ..."
+
+#: admin/class-fg-prestashop-to-woocommerce-attributes.php:56
+msgid "Importing features..."
+msgstr "Импорт функций ..."
+
+#: admin/class-fg-prestashop-to-woocommerce-attributes.php:96
+#, php-format
+msgid "%d feature imported"
+msgid_plural "%d features imported"
+msgstr[0] "%d функция импортирована"
+msgstr[1] "%d функции импортирована"
+
+#: admin/class-fg-prestashop-to-woocommerce-attributes.php:119
+msgid "Importing attributes..."
+msgstr "Импорт атрибутов ..."
+
+#: admin/class-fg-prestashop-to-woocommerce-attributes.php:187
+#, php-format
+msgid "%d attribute imported"
+msgid_plural "%d attributes imported"
+msgstr[0] "%d атрибут импортирован"
+msgstr[1] "%d атрибуты импортированы"
+
+#: admin/class-fg-prestashop-to-woocommerce-ftp.php:109
+#: admin/class-fg-prestashop-to-woocommerce-ftp.php:126
+msgid "FTP connection successful"
+msgstr "FTP-соединение успешно"
+
+#: admin/class-fg-prestashop-to-woocommerce-ftp.php:111
+msgid "FTP connection failed"
+msgstr "FTP-соединение не удалось"
+
+#: admin/class-fg-prestashop-to-woocommerce-ftp.php:111
+msgid "See the errors in the log below"
+msgstr "Смотрите ошибки в журнале ниже"
+
+#: admin/class-fg-prestashop-to-woocommerce-ftp.php:148
+#: admin/class-fg-prestashop-to-woocommerce-ftp.php:160
+#: admin/class-fg-prestashop-to-woocommerce-ftp.php:171
+msgid "FTP connection failed:"
+msgstr "FTP-соединение не удалось:"
+
+#: admin/class-fg-prestashop-to-woocommerce-ftp.php:148
+#: admin/partials/ftp-settings.php:28
+#, php-format
+msgid ""
+"(SFTP requires the <a href=\"%s\" target=\"_blank\">WP Filesystem SSH2</a> "
+"plugin)"
+msgstr ""
+"(SFTP требует  <a href=\"%s\" target=\"_blank\">WP  файловой системы SSH2</"
+"a>)"
+
+#: admin/class-fg-prestashop-to-woocommerce-menus.php:52
+msgid "Importing menus..."
+msgstr "Импорт меню ..."
+
+#: admin/class-fg-prestashop-to-woocommerce-menus.php:82
+#, php-format
+msgid "%d menu item imported"
+msgid_plural "%d menu items imported"
+msgstr[0] "%d импортированный пункт меню"
+msgstr[1] "%d импортированных пунктов меню"
+
+#: admin/class-fg-prestashop-to-woocommerce-orders.php:96
+msgid "Importing orders..."
+msgstr "Импорт заказов ..."
+
+#: admin/class-fg-prestashop-to-woocommerce-orders.php:119
+#, php-format
+msgid "%d order imported"
+msgid_plural "%d orders imported"
+msgstr[0] "%d заказ импортирован"
+msgstr[1] "%d заказов импортировано"
+
+#: admin/class-fg-prestashop-to-woocommerce-orders.php:522
+#: admin/class-fg-prestashop-to-woocommerce-premium-admin.php:354
+msgid "Error:"
+msgstr "Ошибка:"
+
+#: admin/class-fg-prestashop-to-woocommerce-orders.php:626
+msgid "Updating orders..."
+msgstr "Обновление заказов ..."
+
+#: admin/class-fg-prestashop-to-woocommerce-orders.php:649
+#, php-format
+msgid "%d order updated"
+msgid_plural "%d orders updated"
+msgstr[0] "%d заказ обновлен"
+msgstr[1] "%d заказов обновлено"
+
+#: admin/class-fg-prestashop-to-woocommerce-premium-admin.php:114
+msgid "Import PrestaShop Premium"
+msgstr "Импорт PrestaShop Премиум"
+
+#: admin/class-fg-prestashop-to-woocommerce-premium-admin.php:115
+msgid ""
+"This plugin will import products, categories, tags, images, CMS, employees, "
+"customers and orders from PrestaShop to WooCommerce/WordPress."
+msgstr ""
+"Этот плагин будет импортировать продукты, категории, теги, изображения, CMS, "
+"сотрудников, клиентов и заказов от PrestaShop до WooCommerce/WordPress."
+
+#: admin/class-fg-prestashop-to-woocommerce-premium-admin.php:116
+#, php-format
+msgid ""
+"For any issue, please read the <a href=\"%s\" target=\"_blank\">FAQ</a> "
+"first."
+msgstr ""
+"По любым вопросам, пожалуйста, прочитайте  <a href=\"%s\" target=\"_blank"
+"\">FAQ</a>."
+
+#: admin/class-fg-prestashop-to-woocommerce-premium-admin.php:145
+#, php-format
+msgid "%d user"
+msgid_plural "%d users"
+msgstr[0] "%d юзер"
+msgstr[1] "%d юзеров"
+
+#: admin/class-fg-prestashop-to-woocommerce-premium-admin.php:149
+#, php-format
+msgid "%d order"
+msgid_plural "%d orders"
+msgstr[0] "%d заказ"
+msgstr[1] "%d заказов"
+
+#: admin/class-fg-prestashop-to-woocommerce-premium-admin.php:386
+msgid "Import the product textures"
+msgstr "Импортируйте текстуры продукта"
+
+#: admin/class-fg-prestashop-to-woocommerce-premium-admin.php:386
+msgid "Check only if you use textures, otherwise it can slow down the import."
+msgstr ""
+"Проверяйте только если вы используете текстуры, иначе это может замедлить "
+"импорт."
+
+#: admin/class-fg-prestashop-to-woocommerce-premium-admin.php:387
+msgid "Use the product texture as the featured image"
+msgstr "Используйте текстуру продукта в качестве рекомендуемого изображения"
+
+#: admin/class-fg-prestashop-to-woocommerce-premium-admin.php:527
+msgid "Updating products..."
+msgstr "Обновление продуктов ..."
+
+#: admin/class-fg-prestashop-to-woocommerce-premium-admin.php:547
+#, php-format
+msgid "%d product updated"
+msgid_plural "%d products updated"
+msgstr[0] "%d продукт обновлен"
+msgstr[1] "%d продуктов обновлено"
+
+#: admin/class-fg-prestashop-to-woocommerce-reviews.php:99
+msgid "Importing reviews..."
+msgstr "Импорт отзывов ..."
+
+#: admin/class-fg-prestashop-to-woocommerce-reviews.php:135
+#, php-format
+msgid "%d review imported"
+msgid_plural "%d reviews imported"
+msgstr[0] "%d отзыв импортирован"
+msgstr[1] "%d отзывов импортировано"
+
+#: admin/class-fg-prestashop-to-woocommerce-taxes.php:52
+msgid "Importing taxes..."
+msgstr "Импорт налогов ..."
+
+#: admin/class-fg-prestashop-to-woocommerce-taxes.php:69
+#, php-format
+msgid "%d tax rules group imported"
+msgid_plural "%d tax rules groups imported"
+msgstr[0] "%d группа налоговых правил импортирована"
+msgstr[1] "%d группы налоговых правил импортированы"
+
+#: admin/class-fg-prestashop-to-woocommerce-users.php:143
+msgid "Users deleted"
+msgstr "Пользователи удалены"
+
+#: admin/class-fg-prestashop-to-woocommerce-users.php:180
+msgid "Importing users..."
+msgstr "Импорт пользователей ..."
+
+#: admin/class-fg-prestashop-to-woocommerce-users.php:184
+#, php-format
+msgid "%d user imported"
+msgid_plural "%d users imported"
+msgstr[0] "%d юзер импортирован"
+msgstr[1] "%d юзеров импортировано"
+
+#: admin/class-fg-prestashop-to-woocommerce-virtual-products.php:74
+msgid ""
+"Please configure the FTP connection to transfer the downloadable products"
+msgstr ""
+"Пожалуйста, настройте FTP-соединение для передачи загружаемых продуктов"
+
+#: admin/class-fg-prestashop-to-woocommerce-virtual-products.php:91
+#, php-format
+msgid "Unable to create directory %s"
+msgstr "Невозможно создать каталог %s"
+
+#: admin/class-fg-prestashop-to-woocommerce-vouchers.php:93
+msgid "Importing vouchers..."
+msgstr "Импорт ваучеров ..."
+
+#: admin/class-fg-prestashop-to-woocommerce-vouchers.php:218
+#, php-format
+msgid "%d voucher imported"
+msgid_plural "%d vouchers imported"
+msgstr[0] "%d ваучер импортирован"
+msgstr[1] "%d ваучеров импортировано"
+
+#: admin/partials/ftp-settings.php:2
+msgid "PrestaShop FTP parameters"
+msgstr "Параметры PrestaShop FTP"
+
+#: admin/partials/ftp-settings.php:5
+msgid ""
+"Used for the downloadable products. You can leave these parameters empty if "
+"the PrestaShop site doesn't contain downloadable products."
+msgstr ""
+"Используется для загружаемых продуктов. Вы можете оставить эти параметры "
+"пустыми, если сайт PrestaShop не содержит загружаемых продуктов."
+
+#: admin/partials/ftp-settings.php:8
+msgid "FTP host"
+msgstr "FTP хост"
+
+#: admin/partials/ftp-settings.php:12
+msgid "FTP port"
+msgstr "FTP порт"
+
+#: admin/partials/ftp-settings.php:16
+msgid "FTP login"
+msgstr "FTP логин"
+
+#: admin/partials/ftp-settings.php:20
+msgid "FTP password"
+msgstr "FTP пароль"
+
+#: admin/partials/ftp-settings.php:24
+msgid "Protocol"
+msgstr "Протокол"
+
+#: admin/partials/ftp-settings.php:26
+msgid "FTP"
+msgstr "FTP"
+
+#: admin/partials/ftp-settings.php:27
+msgid "FTPS"
+msgstr "FTPS"
+
+#: admin/partials/ftp-settings.php:28
+msgid "SFTP"
+msgstr "SFTP"
+
+#: admin/partials/ftp-settings.php:32
+msgid "FTP base directory"
+msgstr "Базовый каталог FTP"
+
+#: admin/partials/ftp-settings.php:37
+msgid "Test the FTP connection"
+msgstr "Проверьте соединение FTP"
+
+#: admin/partials/premium-actions.php:2
+msgid "Update:"
+msgstr "Обновить:"
+
+#: admin/partials/premium-actions.php:4
+msgid "Don't update the prices"
+msgstr "Не обновлять цены"
+
+#: admin/partials/premium-actions.php:10
+msgid "Update existing products and orders"
+msgstr "Обновить существующие продукты и заказы"
+
+#: admin/partials/premium-features.php:2
+msgid "Accessories:"
+msgstr "Аксессуары:"
+
+#: admin/partials/premium-features.php:4
+msgid "Import the accessories:"
+msgstr "Импортировать аксессуары:"
+
+#: admin/partials/premium-features.php:5
+msgid "as cross sells"
+msgstr "как кросс продает"
+
+#: admin/partials/premium-features.php:6
+msgid "as up sells"
+msgstr "как до продает"
+
+#: admin/partials/premium-features.php:7
+msgid "as both"
+msgstr "kак оба"
+
+#: admin/partials/premium-features.php:12
+msgid "SEO:"
+msgstr "SEO :"
+
+#: admin/partials/premium-features.php:14
+msgid "Import the meta data to WordPress SEO by Yoast"
+msgstr "Импорт метаданных в WordPress SEO от Yoast"
+
+#: admin/partials/premium-features.php:16
+msgid "Redirect the PrestaShop product URLs"
+msgstr "Перенаправить URL-адреса продуктов PrestaShop"
+
+#: admin/partials/premium-features.php:21
+msgid "Multishops:"
+msgstr "Мультишопы:"
+
+#: admin/partials/premium-features.php:23
+msgid "Import the shop:"
+msgstr "Импорт магазина:"
+
+#: admin/partials/premium-features.php:31
+msgid "Partial import:"
+msgstr "Частичный импорт:"
+
+#: admin/partials/premium-features.php:33
+msgid "expand / collapse"
+msgstr "развернуть / свернуть"
+
+#: admin/partials/premium-features.php:35
+msgid "Don't import the CMS"
+msgstr "Не импортируйте CMS"
+
+#: admin/partials/premium-features.php:37
+msgid "Don't import the products categories"
+msgstr "Не импортировать категории товаров"
+
+#: admin/partials/premium-features.php:39
+msgid "Don't import the products"
+msgstr "Не импортируйте продукты"
+
+#: admin/partials/premium-features.php:41
+msgid "Don't import the disabled products"
+msgstr "Не импортируйте отключенные продукты"
+
+#: admin/partials/premium-features.php:43
+msgid "Don't import the product attributes"
+msgstr "Не импортируйте атрибуты продукта"
+
+#: admin/partials/premium-features.php:45
+msgid "Don't import the product accessories"
+msgstr "Не импортировать аксессуары для продукта"
+
+#: admin/partials/premium-features.php:47
+msgid "Don't import the users"
+msgstr "Не импортируйте пользователей"
+
+#: admin/partials/premium-features.php:49
+msgid "Don't import the orders"
+msgstr "Не импортировать заказы"
+
+#: admin/partials/premium-features.php:51
+msgid "Don't import the reviews"
+msgstr "Не импортировать отзывы"
+
+#: admin/partials/premium-features.php:53
+msgid "Don't import the vouchers"
+msgstr "Не импортируйте ваучеры"
+
+#: admin/partials/premium-features.php:55
+msgid "Don't import the menus"
+msgstr "Не импортировать меню"
+
+#: admin/partials/premium-settings.php:2
+msgid "Cookie key"
+msgstr "Cookie key"
+
+#: admin/partials/premium-settings.php:4
+msgid ""
+"The cookie key is used to authenticate the customers on WordPress with their "
+"PrestaShop password."
+msgstr ""
+"Ключ cookie используется для аутентификации клиентов на WordPress с "
+"ихпаролем PrestaShop."
+
+#: admin/partials/premium-settings.php:4
+msgid "PrestaShop < 1.7 only"
+msgstr "PrestaShop < 1.7 только"
+
+#: includes/class-fg-prestashop-to-woocommerce-premium.php:344
+msgid "Import"
+msgstr "Импорт"
+
+#~ msgid "Use FTPS"
+#~ msgstr "Использовать FTPS"
+
+#~ msgid "Set the texture as the featured image"
+#~ msgstr "Установить текстуру как изображение"
+
+#~ msgid "WordPress database"
+#~ msgstr "База данных WordPress"
+
+#~ msgid ""
+#~ "If you want to restart the import from scratch, you must empty the "
+#~ "WordPress content with the button hereafter."
+#~ msgstr ""
+#~ "Если вы хотите возобновить импорт с нуля, вы должны очистить содержание "
+#~ "WordPress кнопкой ниже."
+
+#~ msgid "Remove only new imported posts"
+#~ msgstr "Удалить только новые импортированные посты"
+
+#~ msgid "Remove all WordPress content"
+#~ msgstr "Удалить все содержимое WordPress"
+
+#~ msgid "Empty WordPress content"
+#~ msgstr "Пустой контент WordPress"
+
+#~ msgid "Automatic removal:"
+#~ msgstr "Автоматическое удаление:"
+
+#~ msgid "Automatically remove all the WordPress content before each import"
+#~ msgstr ""
+#~ "Автоматически удалять все содержимое WordPress перед каждым импортом"
+
+#~ msgid "PrestaShop web site parameters"
+#~ msgstr "Параметры веб-сайта PrestaShop"
+
+#~ msgid "URL (beginning with http://)"
+#~ msgstr "URL (начиная с http: //)"
+
+#~ msgid "PrestaShop database parameters"
+#~ msgstr "Параметры базы данных PrestaShop"
+
+#~ msgid "Hostname"
+#~ msgstr "Hostname"
+
+#~ msgid "Port"
+#~ msgstr "Порт"
+
+#~ msgid "Database"
+#~ msgstr "База даных"
+
+#~ msgid "Username"
+#~ msgstr "Пользователь"
+
+#~ msgid "Password"
+#~ msgstr "Пароль"
+
+#~ msgid "PrestaShop Table Prefix"
+#~ msgstr "Префикс таблиц PrestaShop"
+
+#~ msgid "Test the connection"
+#~ msgstr "Проверить соединение"
+
+#~ msgid "Behavior"
+#~ msgstr "Поведение"
+
+#~ msgid "SKU:"
+#~ msgstr "SKU :"
+
+#~ msgid "Reference field"
+#~ msgstr "Справочное поле"
+
+#~ msgid "EAN-13 field"
+#~ msgstr "поле EAN-13"
+
+#~ msgid "Medias:"
+#~ msgstr "Медиа :"
+
+#~ msgid "Skip media"
+#~ msgstr "Пропустить медиа"
+
+#~ msgid "Import first image:"
+#~ msgstr "Импортировать первое изображение:"
+
+#~ msgid "The first image will be kept in the post content"
+#~ msgstr "Первое изображение будет сохранено в содержании товара."
+
+#~ msgid "as is"
+#~ msgstr "как есть"
+
+#~ msgid ""
+#~ "The first image will be removed from the post content and imported as the "
+#~ "featured image only"
+#~ msgstr ""
+#~ "Первое изображение будет удалено из содержимого публикации и "
+#~ "импортировано только как рекомендуемое изображение."
+
+#~ msgid "as featured only"
+#~ msgstr "как показано только"
+
+#~ msgid ""
+#~ "The first image will be kept in the post content and imported as the "
+#~ "featured image"
+#~ msgstr ""
+#~ "Первое изображение будет сохранено в содержимом продукта и импортировано "
+#~ "как рекомендуемое изображение."
+
+#~ msgid "as is and as featured"
+#~ msgstr "как есть и как указано"
+
+#~ msgid "Import external media"
+#~ msgstr "Импорт дополнительно медиа"
+
+#~ msgid ""
+#~ "Checked: download the media with their full path in order to import media "
+#~ "with identical names."
+#~ msgstr ""
+#~ "Выбрано: загрузить медиа с полным путем, чтобы импортировать медиас "
+#~ "одинаковыми именами."
+
+#~ msgid "Import media with duplicate names"
+#~ msgstr "Импорт медиа с повторяющимися именами"
+
+#~ msgid ""
+#~ "Checked: download the media even if it has already been imported. "
+#~ "Unchecked: Download only media which were not already imported."
+#~ msgstr ""
+#~ "Выбрано: загрузка медиа, даже если он уже был импортирован.Не отмечено: "
+#~ "загружать только те медиа, которые еще не были импортированы."
+
+#~ msgid ""
+#~ "Force media import. Keep unchecked except if you had previously some "
+#~ "media download issues."
+#~ msgstr ""
+#~ "Принудительно импортировать медиа. Не проверяйте, если у вас не было "
+#~ "ранее проблем с загрузкой медиа"
+
+#~ msgid "Don't include the first image into the product gallery"
+#~ msgstr "Не включайте первое изображение в галерею продукта"
+
+#~ msgid "Timeout for each media:"
+#~ msgstr "Тайм-аут для каждого медиафайла:"
+
+#~ msgid "seconds"
+#~ msgstr "секунл"
+
+#~ msgid "Import prices:"
+#~ msgstr "Импорт цен:"
+
+#~ msgid "excluding tax"
+#~ msgstr "без налога"
+
+#~ msgid ""
+#~ "including tax <small>in this case, you must define a default tax rate "
+#~ "before running the import</small>"
+#~ msgstr ""
+#~ "С налогом <small>в этом случае вам нужно указать налог перед запуском "
+#~ "импорта</small>"
+
+#~ msgid "Stock management:"
+#~ msgstr "Управление запасами:"
+
+#~ msgid "Enable stock management"
+#~ msgstr "Включить управление запасами"
+
+#~ msgid "Meta keywords:"
+#~ msgstr "Мета ключевые слова:"
+
+#~ msgid "Import meta keywords as tags"
+#~ msgstr "Импортировать мета ключевые слова как теги"
+
+#~ msgid "Create pages:"
+#~ msgstr "Создать страницы:"
+
+#~ msgid "Import the CMS as pages instead of posts (without categories)"
+#~ msgstr "Импортируйте CMS как страницы вместо постов (без категорий)"
+
+#~ msgid "Save settings"
+#~ msgstr "Сохранить настройки"
+
+#~ msgid "Import content from PrestaShop to WordPress"
+#~ msgstr "Импортировать контент из PrestaShop в WordPress"
+
+#~ msgid ""
+#~ "All new imported posts or pages and their comments will be deleted from "
+#~ "WordPress."
+#~ msgstr ""
+#~ "Все новые импортированные посты или страницы и их комментарии будут "
+#~ "удалены из WordPress."
+
+#~ msgid "All content will be deleted from WordPress."
+#~ msgstr "Весь контент будет удален из WordPress."
+
+#~ msgid "Please select a remove option."
+#~ msgstr "Пожалуйста, выберите опцию удаления."
+
+#~ msgid "PrestaShop"
+#~ msgstr "PrestaShop"
+
+#~ msgid "Import PrestaShop e-commerce solution to WooCommerce"
+#~ msgstr "Импорт решения электронной коммерции PrestaShop в WooCommerce"
+
+#~ msgid "The wp-content directory must be writable."
+#~ msgstr "Каталог wp-content должен быть доступен для записи."
+
+#~ msgid "WordPress content removed"
+#~ msgstr "Содержание WordPress удалено"
+
+#~ msgid "Couldn't remove content"
+#~ msgstr "Не удалось удалить контент"
+
+#~ msgid "Settings saved"
+#~ msgstr "Настройки сохранены"
+
+#~ msgid ""
+#~ "This plugin will import products, categories, tags, images and CMS from "
+#~ "PrestaShop to WooCommerce/WordPress.<br />Compatible with PrestaShop "
+#~ "versions 1.1 to 1.6."
+#~ msgstr ""
+#~ "Этот плагин будет импортировать товары, категории, теги, изображения и "
+#~ "CMS из lPrestaShop для WooCommerce / WordPress. <br /> Совместим с "
+#~ "PrestaShop>версий 1.1-1.6."
+
+#~ msgid "%d category"
+#~ msgid_plural "%d categories"
+#~ msgstr[0] "%d категория"
+#~ msgstr[1] "%d категории"
+
+#~ msgid "%d post"
+#~ msgid_plural "%d posts"
+#~ msgstr[0] "%d запись"
+#~ msgstr[1] "%d записей"
+
+#~ msgid "%d page"
+#~ msgid_plural "%d pages"
+#~ msgstr[0] "%d страница"
+#~ msgstr[1] "%d страниц"
+
+#~ msgid "%d product"
+#~ msgid_plural "%d products"
+#~ msgstr[0] "%d товар"
+#~ msgstr[1] "%d товаров"
+
+#~ msgid "%d media"
+#~ msgid_plural "%d medias"
+#~ msgstr[0] "%d медиа"
+#~ msgstr[1] "%d медиа"
+
+#~ msgid "%d tag"
+#~ msgid_plural "%d tags"
+#~ msgstr[0] "%d тег"
+#~ msgstr[1] "%d тегов"
+
+#~ msgid "Instructions"
+#~ msgstr "Инструкции"
+
+#~ msgid "Options"
+#~ msgstr "Опции"
+
+#~ msgid "FAQ"
+#~ msgstr "FAQ"
+
+#~ msgid "PDO is required. Please enable it."
+#~ msgstr "Требуется PDO. Пожалуйста, включите его."
+
+#~ msgid ""
+#~ "Couldn't connect to the PrestaShop database. Please check your "
+#~ "parameters. And be sure the WordPress server can access the PrestaShop "
+#~ "database."
+#~ msgstr ""
+#~ "Не удалось подключиться к базе данных PrestaShop. Пожалуйста, проверьте "
+#~ "ваши параметры. И убедитесь, что сервер WordPress может получить доступ к "
+#~ "базе PrestaShop "
+
+#~ msgid ""
+#~ "Please read the <a href=\"%s\" target=\"_blank\">FAQ for the solution</a>."
+#~ msgstr ""
+#~ "Пожалуйста прочитайте <a href=\"%s\" target=\"_blank\">FAQ для решения</"
+#~ "a>."
+
+#~ msgid "WooCommerce data deleted"
+#~ msgstr "Данные WooCommerce удалены"
+
+#~ msgid "WooCommerce default data created"
+#~ msgstr "WooCommerce данные по умолчанию созданы"
+
+#~ msgid "Connected with success to the PrestaShop database"
+#~ msgstr "Успешно связан с базой данных PrestaShop"
+
+#~ msgid ""
+#~ "Error: the <a href=\"https://wordpress.org/plugins/woocommerce/\" target="
+#~ "\"_blank\">WooCommerce plugin</a> must be installed and activated to "
+#~ "import the products."
+#~ msgstr ""
+#~ "Ошибка: Нужен <a href=\"https://wordpress.org/plugins/woocommerce/\" "
+#~ "target=\"_blank\">плагин WooCommerce</a> установлен чтобыимпортировать "
+#~ "продукты"
+
+#~ msgid "PrestaShop data found:"
+#~ msgstr "Данные PrestaShop найдены:"
+
+#~ msgid "%d article"
+#~ msgid_plural "%d articles"
+#~ msgstr[0] "%d запись"
+#~ msgstr[1] "%d записей"
+
+#~ msgid "%d employee"
+#~ msgid_plural "%d employees"
+#~ msgstr[0] "%d работник"
+#~ msgstr[1] "%d работников"
+
+#~ msgid "%d customer"
+#~ msgid_plural "%d customers"
+#~ msgstr[0] "%d клиент"
+#~ msgstr[1] "%d клиентов"
+
+#~ msgid "%d category imported"
+#~ msgid_plural "%d categories imported"
+#~ msgstr[0] "%d категория импортирована"
+#~ msgstr[1] "%d категорий импортировано"
+
+#~ msgid "%d article imported"
+#~ msgid_plural "%d articles imported"
+#~ msgstr[0] "%d запись импортирована"
+#~ msgstr[1] "%d записей импортировано"
+
+#~ msgid "%d product category imported"
+#~ msgid_plural "%d product categories imported"
+#~ msgstr[0] "%d категория продукта импортирована"
+#~ msgstr[1] "%d категорий продуктов импортировано"
+
+#~ msgid "%d product imported"
+#~ msgid_plural "%d products imported"
+#~ msgstr[0] "%d продукт импортирован"
+#~ msgstr[1] "%d продуктов импортировано"
+
+#~ msgid "%d media imported"
+#~ msgid_plural "%d medias imported"
+#~ msgstr[0] "%d медиа импортировано"
+#~ msgstr[1] "%d медиа импортировано"
+
+#~ msgid ""
+#~ "For any issue, please read the <a href=\"http://www.fredericgilles.net/fg-"
+#~ "prestashop-to-woocommerce\" target=\"_blank\">FAQ</a> first."
+#~ msgstr ""
+#~ "По любым вопросам, пожалуйста, прочитайте <a href=\"http://www."
+#~ "fredericgilles.net/fg-prestashop-to-woocommerce\" target=\"_blank\">FAQ</"
+#~ "a>."
+
+#~ msgid ""
+#~ "For any issue, please read the <a href=\"http://wordpress.org/plugins/fg-"
+#~ "prestashop-to-woocommerce/faq/\" target=\"_blank\">FAQ</a> first."
+#~ msgstr ""
+#~ "По любым вопросам, пожалуйста, прочитайте <a href=\"http://wordpress.org/"
+#~ "plugins/fg-prestashop-to-woocommerce/faq/\" target=\"_blank\">FAQ</a>."
+
+#~ msgid ""
+#~ "<a href=\"http://wordpress.org/plugins/fg-prestashop-to-woocommerce/faq/"
+#~ "\" target=\"_blank\">FAQ</a>"
+#~ msgstr ""
+#~ "<a href=\"http://wordpress.org/plugins/fg-prestashop-to-woocommerce/faq/"
+#~ "\" target=\"_blank\">FAQ</a>"
+
+#~ msgid ""
+#~ "This plugin will import products, categories, tags, images and CMS from "
+#~ "PrestaShop to WooCommerce/WordPress.<br />Compatible with PrestaShop "
+#~ "versions 1.3 to 1.6."
+#~ msgstr ""
+#~ "Этот плагин будет импортировать товары, категории, теги, изображения и "
+#~ "CMS из PrestaShop для WooCommerce / WordPress. <br /> Совместим с "
+#~ "PrestaShopверсии от 1.3 до 1.6."
+
+#~ msgid ""
+#~ "If you want to rerun the import, you must empty the WordPress content "
+#~ "with the button hereafter."
+#~ msgstr ""
+#~ "Если вы хотите перезапустить импорт, вы должны очистить содержимое "
+#~ "WordPress кнопкой ниже."
+
+#~ msgid ""
+#~ "This plugin will import products, categories, tags, images and CMS from "
+#~ "PrestaShop to WooCommerce/WordPress.<br />Compatible with PrestaShop "
+#~ "versions 1.4 to 1.6."
+#~ msgstr ""
+#~ "Этот плагин будет импортировать товары, категории, теги, изображения и "
+#~ "CMS из PrestaShop для WooCommerce / WordPress. <br /> Совместим с "
+#~ "PrestaShopверсии от 1.3 до 1.6."
+
+#~ msgid ""
+#~ "If you found this plugin useful and it saved you many hours or days, "
+#~ "please rate it on <a href=\"https://wordpress.org/plugins/fg-prestashop-"
+#~ "to-woocommerce/\">FG PrestaShop to WooCommerce</a>. You can also make a "
+#~ "donation using the button below."
+#~ msgstr ""
+#~ "Если вы нашли этот плагин полезным и он сэкономил вам много часов или "
+#~ "дней, пожалуйста, оцените эго на <a href=\"https://wordpress.org/plugins/"
+#~ "fg-prestashop-to-woocommerce/\">FG PrestaShop to WooCommerce</a>. Вы так "
+#~ "же можете задонатитьнажав на кнопку ниже"
+
+#~ msgid "Do you need extra features?"
+#~ msgstr "Вам нужны дополнительные функции?"
+
+#~ msgid "product attributes"
+#~ msgstr "атрибуты продукта"
+
+#~ msgid "SEO: Keeps meta data (title, description and keywords)"
+#~ msgstr "SEO: сохраняет метаданные (заголовок, описание и ключевые слова)"
+
+#~ msgid "Don't forget to modify internal links."
+#~ msgstr "Не забудьте изменить внутренние ссылки."

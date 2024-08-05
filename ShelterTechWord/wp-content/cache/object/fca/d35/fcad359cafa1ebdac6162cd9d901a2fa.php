@@ -1,0 +1,1 @@
+‘|°f<?php exit; ?>a:1:{s:7:"content";a:2:{s:49:"wc_connect_should_display_nux_after_jp_cxn_banner";b:1;s:26:"wc_pending_batch_processes";b:1;}}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//localhost:8888/ShelterTech/ShelterTechWord/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>http://localhost:8888/ShelterTech/ShelterTechWord/post-sitemap.xml</loc>
+		<lastmod>2024-06-21T13:47:01+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://localhost:8888/ShelterTech/ShelterTechWord/page-sitemap.xml</loc>
+		<lastmod>2024-08-03T17:34:54+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://localhost:8888/ShelterTech/ShelterTechWord/product-sitemap.xml</loc>
+		<lastmod>2024-08-03T17:37:18+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://localhost:8888/ShelterTech/ShelterTechWord/category-sitemap.xml</loc>
+		<lastmod>2024-06-21T13:47:01+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://localhost:8888/ShelterTech/ShelterTechWord/product_cat-sitemap.xml</loc>
+		<lastmod>2024-08-03T17:37:18+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://localhost:8888/ShelterTech/ShelterTechWord/pa_composition-sitemap.xml</loc>
+		<lastmod>2024-08-03T17:37:18+00:00</lastmod>
+	</sitemap>
+</sitemapindex>
